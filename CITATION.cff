@@ -1,5 +1,5 @@
-cff-version: 1.3.0
-title: WordTies: Measuring Word Associations in Language Models via Constrained Sampling
+cff-version: 1.2.0
+title: "WordTies: Measuring Word Associations in Language Models via Constrained Sampling"
 authors:
   - family-names: Yao
     given-names: Peiran
@@ -7,12 +7,15 @@ authors:
     given-names: Tobias
   - family-names: Barbosa
     given-names: Denilson
-date-released: 2022-12
-conference:
-  title: Findings of the Association for Computational Linguistics: EMNLP 2022
+preferred-citation:
+  title: "WordTies: Measuring Word Associations in Language Models via Constrained Sampling"
+  year: 2022
+  month: 12
+  type: conference-paper
+  collection-type: proceedings
+  collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2022"
   location: Abu Dhabi, United Arab Emirates
-  date-start: 2022-12-05
-  date-end: 2022-12-09
-publisher: Association for Computational Linguistics
-url: https://aclanthology.org/2022.findings-emnlp.440
-pages: 5959--5970
+  publisher:
+    name: "Association for Computational Linguistics"
+  url: "https://aclanthology.org/2022.findings-emnlp.440"
+  pages: "5959--5970"
