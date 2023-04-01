@@ -9,6 +9,13 @@ authors:
     given-names: Denilson
 preferred-citation:
   title: "WordTies: Measuring Word Associations in Language Models via Constrained Sampling"
+  authors:
+    - family-names: Yao
+      given-names: Peiran
+    - family-names: Renwick
+      given-names: Tobias
+    - family-names: Barbosa
+      given-names: Denilson
   year: 2022
   month: 12
   type: conference-paper
